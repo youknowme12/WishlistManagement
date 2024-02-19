@@ -10,7 +10,7 @@ username - ayushijyoti
 password - dummy
 
 
-For hitting POST command with endpoind - '/api/wishlists'
+For hitting POST command with endpoint - '/api/wishlists'
 
 1. Get the csrf token by hitting this api - '/csrf-token'
 2. Add header - 'X-CSRF-TOKEN' and add the value of csrf token
